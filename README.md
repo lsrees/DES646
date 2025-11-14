@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  AI-Driven Yoga Posture Correction Using Computer Vision
 
 ## Project Overview
@@ -145,3 +146,6 @@ The **AI-Driven Yoga Posture Correction Using Computer Vision** project leverage
 - Recognizing and correcting yoga postures in **real time**  
 - Providing **visual + audio feedback** for proper alignment  
 - Helping users practice yoga **safely, effectively, and independently**
+=======
+# DES646
+>>>>>>> 79122a3a27d2914612033c68c2dda17d6ee8a652
